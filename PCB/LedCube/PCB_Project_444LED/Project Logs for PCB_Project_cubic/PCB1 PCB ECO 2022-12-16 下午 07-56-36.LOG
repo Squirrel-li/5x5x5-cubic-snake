@@ -1,0 +1,102 @@
+Added Component: Designator=cubic(PCBComponent_1)
+Added Component: Designator=P1(HDR1X25)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Netcubic_1 Pin=cubic-1
+Added Pin To Net: NetName=Netcubic_1 Pin=P1-1
+Added Net: Name=Netcubic_1
+Added Pin To Net: NetName=Netcubic_2 Pin=cubic-2
+Added Pin To Net: NetName=Netcubic_2 Pin=P1-2
+Added Net: Name=Netcubic_2
+Added Pin To Net: NetName=Netcubic_3 Pin=cubic-3
+Added Pin To Net: NetName=Netcubic_3 Pin=P1-3
+Added Net: Name=Netcubic_3
+Added Pin To Net: NetName=Netcubic_4 Pin=cubic-4
+Added Pin To Net: NetName=Netcubic_4 Pin=P1-4
+Added Net: Name=Netcubic_4
+Added Pin To Net: NetName=Netcubic_5 Pin=cubic-5
+Added Pin To Net: NetName=Netcubic_5 Pin=P1-5
+Added Net: Name=Netcubic_5
+Added Pin To Net: NetName=Netcubic_6 Pin=cubic-6
+Added Pin To Net: NetName=Netcubic_6 Pin=P1-6
+Added Net: Name=Netcubic_6
+Added Pin To Net: NetName=Netcubic_7 Pin=cubic-7
+Added Pin To Net: NetName=Netcubic_7 Pin=P1-7
+Added Net: Name=Netcubic_7
+Added Pin To Net: NetName=Netcubic_8 Pin=cubic-8
+Added Pin To Net: NetName=Netcubic_8 Pin=P1-8
+Added Net: Name=Netcubic_8
+Added Pin To Net: NetName=Netcubic_9 Pin=cubic-9
+Added Pin To Net: NetName=Netcubic_9 Pin=P1-9
+Added Net: Name=Netcubic_9
+Added Pin To Net: NetName=Netcubic_10 Pin=cubic-10
+Added Pin To Net: NetName=Netcubic_10 Pin=P1-10
+Added Net: Name=Netcubic_10
+Added Pin To Net: NetName=Netcubic_11 Pin=cubic-11
+Added Pin To Net: NetName=Netcubic_11 Pin=P1-11
+Added Net: Name=Netcubic_11
+Added Pin To Net: NetName=Netcubic_12 Pin=cubic-12
+Added Pin To Net: NetName=Netcubic_12 Pin=P1-12
+Added Net: Name=Netcubic_12
+Added Pin To Net: NetName=Netcubic_13 Pin=cubic-13
+Added Pin To Net: NetName=Netcubic_13 Pin=P1-13
+Added Net: Name=Netcubic_13
+Added Pin To Net: NetName=Netcubic_14 Pin=cubic-14
+Added Pin To Net: NetName=Netcubic_14 Pin=P1-14
+Added Net: Name=Netcubic_14
+Added Pin To Net: NetName=Netcubic_15 Pin=cubic-15
+Added Pin To Net: NetName=Netcubic_15 Pin=P1-15
+Added Net: Name=Netcubic_15
+Added Pin To Net: NetName=Netcubic_16 Pin=cubic-16
+Added Pin To Net: NetName=Netcubic_16 Pin=P1-16
+Added Net: Name=Netcubic_16
+Added Pin To Net: NetName=Netcubic_17 Pin=cubic-17
+Added Pin To Net: NetName=Netcubic_17 Pin=P1-17
+Added Net: Name=Netcubic_17
+Added Pin To Net: NetName=Netcubic_18 Pin=cubic-18
+Added Pin To Net: NetName=Netcubic_18 Pin=P1-18
+Added Net: Name=Netcubic_18
+Added Pin To Net: NetName=Netcubic_19 Pin=cubic-19
+Added Pin To Net: NetName=Netcubic_19 Pin=P1-19
+Added Net: Name=Netcubic_19
+Added Pin To Net: NetName=Netcubic_20 Pin=cubic-20
+Added Pin To Net: NetName=Netcubic_20 Pin=P1-20
+Added Net: Name=Netcubic_20
+Added Pin To Net: NetName=Netcubic_21 Pin=cubic-21
+Added Pin To Net: NetName=Netcubic_21 Pin=P1-21
+Added Net: Name=Netcubic_21
+Added Pin To Net: NetName=Netcubic_22 Pin=cubic-22
+Added Pin To Net: NetName=Netcubic_22 Pin=P1-22
+Added Net: Name=Netcubic_22
+Added Pin To Net: NetName=Netcubic_23 Pin=cubic-23
+Added Pin To Net: NetName=Netcubic_23 Pin=P1-23
+Added Net: Name=Netcubic_23
+Added Pin To Net: NetName=Netcubic_24 Pin=cubic-24
+Added Pin To Net: NetName=Netcubic_24 Pin=P1-24
+Added Net: Name=Netcubic_24
+Added Pin To Net: NetName=Netcubic_25 Pin=cubic-25
+Added Pin To Net: NetName=Netcubic_25 Pin=P1-25
+Added Net: Name=Netcubic_25
+Added Pin To Net: NetName=Netcubic_26 Pin=cubic-26
+Added Pin To Net: NetName=Netcubic_26 Pin=P2-1
+Added Net: Name=Netcubic_26
+Added Pin To Net: NetName=Netcubic_27 Pin=cubic-27
+Added Pin To Net: NetName=Netcubic_27 Pin=P2-2
+Added Net: Name=Netcubic_27
+Added Pin To Net: NetName=Netcubic_28 Pin=cubic-28
+Added Pin To Net: NetName=Netcubic_28 Pin=P2-3
+Added Net: Name=Netcubic_28
+Added Pin To Net: NetName=Netcubic_29 Pin=cubic-29
+Added Pin To Net: NetName=Netcubic_29 Pin=P2-4
+Added Net: Name=Netcubic_29
+Added Pin To Net: NetName=Netcubic_30 Pin=cubic-30
+Added Pin To Net: NetName=Netcubic_30 Pin=P2-5
+Added Net: Name=Netcubic_30
+Added Member To Class: ClassName=BJT Member=Component cubic 5*5*5_LED
+Added Member To Class: ClassName=BJT Member=Component P1 Header 25
+Added Member To Class: ClassName=BJT Member=Component P2 Header 5

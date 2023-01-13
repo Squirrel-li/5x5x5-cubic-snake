@@ -1,0 +1,65 @@
+Added Component: Designator=cube(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P1-1 Pin=cube-1
+Added Pin To Net: NetName=P1-2 Pin=cube-2
+Added Pin To Net: NetName=P1-3 Pin=cube-3
+Added Pin To Net: NetName=P1-4 Pin=cube-4
+Added Pin To Net: NetName=P1-5 Pin=cube-5
+Added Pin To Net: NetName=P1-6 Pin=cube-6
+Added Pin To Net: NetName=P1-7 Pin=cube-7
+Added Pin To Net: NetName=P1-8 Pin=cube-8
+Added Pin To Net: NetName=P2-1 Pin=cube-9
+Added Pin To Net: NetName=P2-2 Pin=cube-10
+Added Pin To Net: NetName=P2-3 Pin=cube-11
+Added Pin To Net: NetName=P2-4 Pin=cube-12
+Added Pin To Net: NetName=P2-5 Pin=cube-13
+Added Pin To Net: NetName=P2-6 Pin=cube-14
+Added Pin To Net: NetName=P2-7 Pin=cube-15
+Added Pin To Net: NetName=P2-8 Pin=cube-16
+Added Pin To Net: NetName=P1-1 Pin=P1-1
+Added Pin To Net: NetName=P1-2 Pin=P1-2
+Added Pin To Net: NetName=P1-3 Pin=P1-3
+Added Pin To Net: NetName=P1-4 Pin=P1-4
+Added Pin To Net: NetName=P1-5 Pin=P1-5
+Added Pin To Net: NetName=P1-6 Pin=P1-6
+Added Pin To Net: NetName=P1-7 Pin=P1-7
+Added Pin To Net: NetName=P1-8 Pin=P1-8
+Added Pin To Net: NetName=P2-1 Pin=P2-1
+Added Pin To Net: NetName=P2-2 Pin=P2-2
+Added Pin To Net: NetName=P2-3 Pin=P2-3
+Added Pin To Net: NetName=P2-4 Pin=P2-4
+Added Pin To Net: NetName=P2-5 Pin=P2-5
+Added Pin To Net: NetName=P2-6 Pin=P2-6
+Added Pin To Net: NetName=P2-7 Pin=P2-7
+Added Pin To Net: NetName=P2-8 Pin=P2-8
+Added Pin To Net: NetName=C1 Pin=cube-17
+Added Pin To Net: NetName=C1 Pin=cube-20
+Added Pin To Net: NetName=C1 Pin=P3-1
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=cube-18
+Added Pin To Net: NetName=C2 Pin=P3-2
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=cube-19
+Added Pin To Net: NetName=C3 Pin=P3-3
+Added Net: Name=C3
+Added Pin To Net: NetName=C4 Pin=P3-4
+Added Net: Name=C4
+Added Member To Class: ClassName=BJT Member=Component cube 4*4*4_LED
+Added Member To Class: ClassName=BJT Member=Component P1 Header 8
+Added Member To Class: ClassName=BJT Member=Component P2 Header 8
+Added Member To Class: ClassName=BJT Member=Component P3 Header 4

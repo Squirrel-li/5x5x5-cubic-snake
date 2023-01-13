@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=type b-1
+Removed Pin From Net: NetName=GND Pin=type b-2
+Added Pin To Net: NetName=VCC Pin=type b-3
+Added Pin To Net: NetName=GND Pin=type b-4
+Added Member To Class: ClassName=BJT Member=Component type b
